@@ -1,0 +1,6 @@
+{
+  "name": "COPA AI Teaching Lab",
+  "description": "Interactive teaching laboratory for Senior ITI COPA Trade Instructors to teach computer-related topics with visual demos, analogies, quizzes, and classroom activities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
